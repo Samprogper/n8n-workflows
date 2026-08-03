@@ -43,3 +43,11 @@ Production workflows, prompts, credentials, and customer implementations are int
 ## Status
 
 Growing documentation repository.
+
+---
+
+## Repository Scope
+
+This repository contains public documentation only.
+
+Source code, production workflows, prompts, infrastructure, and proprietary implementation details are intentionally excluded.
