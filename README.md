@@ -1,31 +1,45 @@
 # n8n Workflows
 
-Collection of workflow automation examples built with n8n.
+> Collection of workflow automation concepts, reusable patterns, and integration examples built with n8n.
 
 ---
 
-## Categories
+## Purpose
+
+This repository documents architectural ideas, workflow patterns, and automation strategies using n8n.
+
+It does not contain production workflows.
+
+---
+
+## Topics
 
 - AI Agents
-- CRM
+- CRM Automation
 - Customer Support
 - API Integrations
-- Databases
+- Database Automation
 - Notifications
-- Business Automation
+- Business Processes
 
 ---
 
 ## Technologies
 
 - n8n
-- REST APIs
 - PostgreSQL
+- REST APIs
 - JavaScript
 - LLMs
 
 ---
 
+## Repository Scope
+
+Production workflows, prompts, credentials, and customer implementations are intentionally excluded.
+
+---
+
 ## Status
 
-Growing collection of production-ready workflow examples.
+Growing documentation repository.
